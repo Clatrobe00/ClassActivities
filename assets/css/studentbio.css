@@ -1,0 +1,23 @@
+body {
+    background-color: #333333;
+}
+
+h1 {
+    color: #eee;
+    font-size: 28px;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    color: #eee;
+    font-size: 24.px;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.float {
+    float: left;
+}
